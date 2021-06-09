@@ -31,11 +31,12 @@ I am posting this for educational purposes only. Use this at your own risk as it
   2. Navigate to the `Network` tab and type `api/` in the top left.
   3. Send a message in any channel and select `messages` then `Headers`.
   4. Locate `authorization` and copy your Token.
+
   ![armful#0001](https://i.imgur.com/QJHBbnj.png)
   
 ### Step 2 | Replacing the Token.
 
-Replace `Your-Token-Here` at line **40** with your token.
+Replace `Your-Token-Here` at line **37** with your token.
 ```js
 client.login("Your-Token-Here");
 ```
