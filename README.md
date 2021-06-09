@@ -9,6 +9,8 @@
 I am posting this for educational purposes only. Use this at your own risk as it is against Discord's **[Terms of Service](https://dis.gd/terms)**.  
 Don't be a skid, credit me if you're going to copy paste code, and please leave a star if you find this useful.
 
+This is just something I made. After all, I needed it due to getting many friend requests from people I didn't know - after they stacked up, I never knew who sent a request because there were so many. This is by no means perfect, but it works, so fuck it.
+
 ###### Before you continue:
 - Make sure you have installed **[NPM](https://www.npmjs.com/get-npm)**.
 - Make sure you have a code editor, I recommend **[Visual Studio Code](https://code.visualstudio.com/)**.
