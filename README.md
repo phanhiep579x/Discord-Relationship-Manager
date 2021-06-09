@@ -6,7 +6,8 @@
 
 ## Discord Relationship Manager
 
-I am posting this for educational purposes only. Use this at your own risk as it is against Discord's **[Terms of Service](https://dis.gd/terms)**.
+I am posting this for educational purposes only. Use this at your own risk as it is against Discord's **[Terms of Service](https://dis.gd/terms)**.  
+Don't be a skid, credit me if you're going to copy paste code, and please leave a star if you find this useful.
 
 ###### Before you continue:
 - Make sure you have installed **[NPM](https://www.npmjs.com/get-npm)**.
